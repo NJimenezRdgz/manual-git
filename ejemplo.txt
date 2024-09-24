@@ -1,7 +1,1 @@
-holamundo
-
-<<<<<<< HEAD
-otra vez
-=======
-y este
->>>>>>> 8151b00da588bbfa9be62c2e02a887cee24b12d8
+cambiando esto una vez mas 
