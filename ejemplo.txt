@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 cambiando esto una vez mas 
+=======
+holamundo
+
+cambiando esto 2 veces mas
+>>>>>>> c276345 (Cambio 2)
